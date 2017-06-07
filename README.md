@@ -2,4 +2,4 @@
 A simple RSS reader android app
 
 # ScreenShots
-![Home Screen Image](/images/main.PNG "Home Screen")
+![Home Screen Image](/images/Main.png "Home Screen")
