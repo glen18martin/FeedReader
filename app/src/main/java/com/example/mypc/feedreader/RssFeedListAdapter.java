@@ -20,6 +20,7 @@ public class RssFeedListAdapter
 
     private List<RssFeedModel> mRssFeedModels;
 
+
     public static class FeedModelViewHolder extends RecyclerView.ViewHolder {
         private View rssFeedView;
 
@@ -48,12 +49,14 @@ public class RssFeedListAdapter
         ((TextView)holder.rssFeedView.findViewById(R.id.descriptionText))
                 .setText(rssFeedModel.description);
         ((TextView)holder.rssFeedView.findViewById(R.id.linkText)).setText(rssFeedModel.link);
+
     }
 
     @Override
     public int getItemCount() {
         return mRssFeedModels.size();
     }
+
 }
 
 
