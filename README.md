@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 * [Node.js](http://nodejs.org)
 * [PostgreSQL](https://www.postgresql.org/)
-* [Android Studio] (https://developer.android.com/studio/index.html)
+* [AndroidStudio] (https://developer.android.com/studio/index.html)
 
 ### Installing
 
@@ -47,5 +47,5 @@ $ pg_restore -U $username --dbname=RssFeeds RssFeeds.sql
 ![Home Screen Image](/images/fetchFeeds1.png "Home Screen")
 ![Home Screen Image](/images/fetchFeeds2.png "Home Screen")
 ![Home Screen Image](/images/fetchFeeds3.png "Home Screen")
-![Browser Image](/images/browser.png "Browser")
+![Browser Image](/images/browser.PNG "Browser")
 ![Saved Feeds Image](/images/savedFeeds.png "Saved Feeds page")
