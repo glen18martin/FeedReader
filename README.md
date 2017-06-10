@@ -41,7 +41,7 @@ $ pg_restore -U $username --dbname=RssFeeds RssFeeds.sql
 
 #### Finally build the app and install 
 
-#### The apk file is located in FeedReader/app/build/outputs/apk/
+#### The apk file is located in FeedReader/Installer/
 
 # ScreenShots
 ![Home Screen Image](/images/fetchFeeds1.png "Home Screen")
